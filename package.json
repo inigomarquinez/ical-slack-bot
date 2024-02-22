@@ -34,7 +34,7 @@
     "check-dependencies": "node_modules/.bin/ncu"
   },
   "dependencies": {
-    "@slack/bolt": "^3.14.0"
+    "@slack/bolt": "^3.17.1"
   },
   "devDependencies": {
     "@commitlint/cli": "^18.4.1",
